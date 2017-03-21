@@ -20,10 +20,10 @@ Defines an animation that will be used for this element/elements. So far there a
 > fadeIn (default), swipeLeft, swipeRight, zoomIn, zoomOut
 
 ###### 2nd argument (400)
-Describes animation duration[ms].
+Describes animation duration[ms] (default 500).
 
 ###### 3rd argument (150)
-Tells what height[px] from bottom of the window is needed to trigger animation.
+Tells what height[px] from bottom of the window is needed to trigger animation (default 150).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
