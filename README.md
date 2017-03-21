@@ -30,4 +30,4 @@ Describes animation duration[ms].
 Tells what height[px] from bottom of the window is needed to trigger animation.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
