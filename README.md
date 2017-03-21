@@ -15,3 +15,19 @@ Example:
   $(".object-to-appear").appear("swipeLeft", 400, 150);
 </script>
 ```
+###### 1st argument ("swipeLeft")
+Defines an animation that will be used for this element/elements. So far there are 5 animations:
+> fadeIn (default)
+> swipeLeft
+> swipeRight
+> zoomIn
+> zoomOut
+
+###### 2nd argument (400)
+Describes animation duration[ms].
+
+###### 3rd argument (150)
+Tells what height[px] from bottom of the window is needed to trigger animation.
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
