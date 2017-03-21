@@ -17,11 +17,7 @@ Example:
 ```
 ###### 1st argument ("swipeLeft")
 Defines an animation that will be used for this element/elements. So far there are 5 animations:
-> fadeIn (default)
-> swipeLeft
-> swipeRight
-> zoomIn
-> zoomOut
+> fadeIn (default), swipeLeft, swipeRight, zoomIn, zoomOut
 
 ###### 2nd argument (400)
 Describes animation duration[ms].
