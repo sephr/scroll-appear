@@ -1,4 +1,4 @@
-//https://github.com/szymonborda/scroll-appear
+//https://github.com/szymonborda/appear-on-scroll
 //Copyright (c) 2017 Szymon Borda
 $.fn.appear = function(animation, duration, distance) {
 
